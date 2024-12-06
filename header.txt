@@ -1,0 +1,9 @@
+// ==UserScript==
+// @name         自动挂团公告
+// @author       Sheyiyuan
+// @version      1.0.0
+// @description  让管理员骰子帮你自动挂团公告
+// @timestamp    1732451398
+// @license      MIT
+// @homepageURL  https://github.com/Sheyiyuan/Notice
+// ==/UserScript==
